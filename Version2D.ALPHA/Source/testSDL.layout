@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="commun.c" open="0" top="0" tabpos="9">
+		<Cursor position="7401" topLine="177" />
+	</File>
+	<File name="commun.h" open="0" top="0" tabpos="6">
+		<Cursor position="33" topLine="0" />
+	</File>
+	<File name="contactAvecFichierExterne.c" open="0" top="0" tabpos="11">
+		<Cursor position="832" topLine="37" />
+	</File>
+	<File name="contactAvecFichierExterne.h" open="0" top="0" tabpos="10">
+		<Cursor position="249" topLine="0" />
+	</File>
+	<File name="deplacements.c" open="0" top="0" tabpos="8">
+		<Cursor position="4592" topLine="144" />
+	</File>
+	<File name="deplacements.h" open="0" top="0" tabpos="7">
+		<Cursor position="135" topLine="0" />
+	</File>
+	<File name="ecriture.c" open="0" top="0" tabpos="6">
+		<Cursor position="315" topLine="30" />
+	</File>
+	<File name="ecriture.h" open="0" top="0" tabpos="7">
+		<Cursor position="4" topLine="0" />
+	</File>
+	<File name="editeur.c" open="0" top="0" tabpos="2">
+		<Cursor position="4245" topLine="42" />
+	</File>
+	<File name="editeur.h" open="0" top="0" tabpos="4">
+		<Cursor position="173" topLine="0" />
+	</File>
+	<File name="environnement.c" open="0" top="0" tabpos="10">
+		<Cursor position="204" topLine="0" />
+	</File>
+	<File name="environnement.h" open="0" top="0" tabpos="5">
+		<Cursor position="11" topLine="0" />
+	</File>
+	<File name="imagesPlateau.c" open="0" top="0" tabpos="6">
+		<Cursor position="736" topLine="15" />
+	</File>
+	<File name="imagesPlateau.h" open="0" top="0" tabpos="5">
+		<Cursor position="356" topLine="0" />
+	</File>
+	<File name="include.h" open="0" top="0" tabpos="3">
+		<Cursor position="12" topLine="20" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="1">
+		<Cursor position="610" topLine="0" />
+	</File>
+	<File name="menus.c" open="0" top="0" tabpos="7">
+		<Cursor position="1412" topLine="27" />
+	</File>
+	<File name="menus.h" open="0" top="0" tabpos="1">
+		<Cursor position="249" topLine="0" />
+	</File>
+	<File name="random.c" open="0" top="0" tabpos="1">
+		<Cursor position="119" topLine="1" />
+	</File>
+	<File name="random.h" open="0" top="0" tabpos="2">
+		<Cursor position="279" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

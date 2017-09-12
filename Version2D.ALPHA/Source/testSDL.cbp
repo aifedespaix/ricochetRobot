@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="testSDL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/testSDL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/testSDL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="`sdl-config --cflags`" />
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add option="`sdl-config --libs`" />
+		</Linker>
+		<Unit filename="commun.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="commun.h" />
+		<Unit filename="contactAvecFichierExterne.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contactAvecFichierExterne.h" />
+		<Unit filename="deplacements.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="deplacements.h" />
+		<Unit filename="ecriture.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ecriture.h" />
+		<Unit filename="editeur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="editeur.h" />
+		<Unit filename="environnement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="environnement.h" />
+		<Unit filename="imagesPlateau.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="imagesPlateau.h" />
+		<Unit filename="include.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menus.h" />
+		<Unit filename="random.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="random.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
